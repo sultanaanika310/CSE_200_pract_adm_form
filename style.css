@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+fieldset {
+    width: 35%;
+    margin : auto;
+    margin-top: 5%;
+    background-color: #f1eee7;
+    border-radius: 20px;
+    border-style:ridge;
+    border-color: #ece6de;
+    padding-left: 40px;
+    margin-top: 2%;
+}
+h2 {
+    text-align: center;
+    font-weight: 400;
+    padding-right: 40px;
+}
+hr{
+    margin-right: 30px;
+}
+input {
+    padding : 2%;
+    border-style: none;
+    background-color: #ece6de;
+    border-radius: 5px;
+}
+.adrs {
+    float:right; 
+    margin-right:40px;
+}
+select {
+    width : 40%;
+    border-radius: 8px;
+    padding: 7px 40px;
+    background-color: #ece6de;
+    border-color: #ece6de;
+}
+option {
+    background-color: white;
+    font-size: 14px;
+}
+.radiobtn {
+    margin-left: 15%;
+}
+.send {
+    width:92%; 
+    font-weight: bold; 
+    background-color: #e7e8da; 
+    padding: 15px; 
+    margin-bottom: 10px;
+}
